@@ -1,13 +1,17 @@
-# Coursera Final Project
+# Project Title: Simple Interest Calculator
 
-This repository contains files required for the Coursera final project.  
+## 📌 Description  
+This project calculates **Simple Interest** using a Bash script.  
+The formula used is:  
 
-## 📌 Files Included:
-- `LICENSE` (Apache 2.0)
-- `README.md`
-- `CODE_OF_CONDUCT.md`
-- `CONTRIBUTING.md`
-- `simple-interest.sh`
 
-## 📌 How to Use:
-1. Clone the repository:  
+## 🔧 How to Use  
+- Clone the repository  
+- Run the script with the required parameters  
+- Get the calculated interest  
+
+## 📜 License  
+This project is licensed under the **Apache 2.0 License**.
+
+## 🤝 Contribution  
+Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.  
